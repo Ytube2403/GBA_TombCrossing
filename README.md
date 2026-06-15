@@ -8,10 +8,16 @@ Kha-Men, a mummy awakened after thousands of years, must escape tombs filled
 with deceptive floors, sudden spikes, moving hazards, gravity traps, and
 psychological fake-outs.
 
+## Gameplay
+
 <p align="center">
-  <img src="graphics/cover/tomb_crossing_cover_preview.jpg"
-       alt="Tomb Crossing cover art" width="384">
+  <img src="graphics/screenshots/world1_sinkhole_room_3x.png"
+       alt="World 1 sand sinkhole gameplay" width="48%">
+  <img src="graphics/screenshots/world2_gravity_room_3x.png"
+       alt="World 2 gravity trap gameplay" width="48%">
 </p>
+
+Actual gameplay captured from the GBA framebuffer at `240x160`.
 
 ## Current Release
 
@@ -49,6 +55,13 @@ Download the playable GBA ROM from the
 - `graphics/`: character, trap, UI, background, and tileset artwork.
 - `audio/` and `dmg_audio/`: music and sound effects.
 - `docs/`: game design, controls, level descriptions, and release notes.
+
+## Artwork
+
+<p align="center">
+  <img src="graphics/cover/tomb_crossing_cover_preview.jpg"
+       alt="Tomb Crossing cover artwork" width="320">
+</p>
 
 ## License
 
