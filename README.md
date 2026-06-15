@@ -8,6 +8,11 @@ Kha-Men, a mummy awakened after thousands of years, must escape tombs filled
 with deceptive floors, sudden spikes, moving hazards, gravity traps, and
 psychological fake-outs.
 
+<p align="center">
+  <img src="graphics/cover/tomb_crossing_cover_preview.jpg"
+       alt="Tomb Crossing cover art" width="384">
+</p>
+
 ## Current Release
 
 The official release contains 40 playable rooms:
